@@ -1,3 +1,3 @@
 # TextMining
-In this code repository there are presented different approaches for text classification problem \n
-Link to the data set ...
+In this code repository there are presented different approaches for text classification problem.
+
